@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['905522180675', 'Vegas', true],
+  ['905522180675', 'Bot', true], 
   [''] 
 ] //Number of owners
 
@@ -47,19 +47,19 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'VegasBot'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.packname = 'vegasbot' 
+global.author = '@vll.vegas 
+global.igfg = 'instagram https://instagram.com/vll.vegas' 
+global.dygp = 'https://chat.whatsapp.com/CYuUPNdztoVJjGnrnk5n4f'
+global.fgsc = 'https://vllvegas.xyz' 
+global.fgyt = 'https://youtube.com/@pixelresmi'
+global.fgpyp = 'https://youtube.com/@pixelresmi'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*Yükleniyor...*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
